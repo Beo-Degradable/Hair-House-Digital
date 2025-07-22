@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950103780338",
+    "project_id": "hair-house-3e2e5",
+    "storage_bucket": "hair-house-3e2e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950103780338:android:f852b9eccb2609ddedd96b",
+        "android_client_info": {
+          "package_name": "com.example.hairhouse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy9_W7b4eaeZ8f1KPdM05tONNha5ebLUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
