@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Hair-House-Salon-App
 Capstone Project
 =======
@@ -19,3 +20,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 >>>>>>> b99386881da65e2bdfd53351eb74958d3d9646af
+=======
+# Hair-House-Digital
+>>>>>>> 71e6d6d3e0856c65147a195cfc74afe1928b449f
